@@ -1,0 +1,18 @@
+.format1 {
+	color: tomato !important;
+	font-family: 'open sans';
+	font-size: 16pt;
+
+	border: 1px solid blue;
+	border-top: 2px dashed red;
+	border-left: none;
+
+	margin-left: 30px;
+	padding-top: 15px;
+}
+
+.middle {
+	/*height: 50px;*/
+	border: 1px solid red;
+	padding: 30px 0;
+}
